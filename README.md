@@ -4,7 +4,7 @@
 - ранжирование героев по винрейту и пикрейту в каждом патче,
 - выявление «скрытых имб»,
 - простой прогноз винрейта десяти выбранных героев на следующий патч.
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pSndYwpqRpJikzYrRn-0P0wqIcRlc-bq?usp=classroom_web)
 ---
 
 ## Введение
