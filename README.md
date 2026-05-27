@@ -1,5 +1,5 @@
 # Анализ и прогнозирование меты Dota 2 (патчи 7.30–7.35)
-
+[![Open In Colab](https://colab.research.google.com/drive/1pSndYwpqRpJikzYrRn-0P0wqIcRlc-bq?usp=classroom_web#scrollTo=uCfdPoSlHvKx)](https://google.com)
 **Цель** — получить интерактивный Jupyter Notebook (Google Colab) с анализом данных о героях Dota 2, включая:
 - ранжирование героев по винрейту и пикрейту в каждом патче,
 - выявление «скрытых имб»,
