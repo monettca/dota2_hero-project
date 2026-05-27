@@ -1,10 +1,14 @@
 # Анализ и прогнозирование меты Dota 2 (патчи 7.30–7.35)
-
+**Инструкция**
+- Шаг 1: Установите проект на свой локальный компьютер.
+- Шаг 2: Откройте скачанный Google Colab notebook через свой аккаунт Google
+- Шаг 3: Добавьте Датасет dota2_hero_stats.csv в среду выполнения Google Colab
+- Шаг 4: Запускайте ячейке, в порядке их расположения
 **Цель** — получить интерактивный Jupyter Notebook (Google Colab) с анализом данных о героях Dota 2, включая:
 - ранжирование героев по винрейту и пикрейту в каждом патче,
 - выявление «скрытых имб»,
 - простой прогноз винрейта десяти выбранных героев на следующий патч.
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pSndYwpqRpJikzYrRn-0P0wqIcRlc-bq?usp=classroom_web)
+
 ---
 
 ## Введение
